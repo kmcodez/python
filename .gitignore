@@ -1,0 +1,8 @@
+**/*.pyc
+**/__pycache__
+**/*.xlsx
+**/*.log
+**/*.png
+**/*.csv
+**/*.gz
+**/nohup.out
